@@ -1,8 +1,6 @@
-/*
-Roblox Version: version-ad5d3e2906444472
-THIS IS AUTOMATIC AND ERRORS CAN OCCUR
-Contact: contact@rbxoffsets.xyz
-*/
+
+// Roblox Version: version-ad5d3e2906444472
+
 
 namespace offsets {
     inline constexpr uintptr_t AbsolutePosition = 0x110;
